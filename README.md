@@ -8,7 +8,7 @@ bAmazon is a Node.js MySQL app that allows users to shop as customers for items 
 
 ## Screenshots of App in Action
 
-<img src ="/images/pic1>
+<img src ="/imgs/pic1>
 
 
 
